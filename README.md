@@ -1,2 +1,3 @@
-# NetApp cloud services on Google Cloud useful resources
+# NetApp cloud services on Google Cloud
+## Useful resources
 
