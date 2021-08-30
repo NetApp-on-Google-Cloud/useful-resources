@@ -1,4 +1,4 @@
-# NetApp cloud services on Google Cloud - Useful resources
+# NetApp cloud services on GCP - Useful resources
 
 ## Cloud Volumes Services
 
