@@ -35,7 +35,7 @@
 - [Marketplace](https://console.cloud.google.com/marketplace/product/netapp-cloudmanager/cloud-manager)
 - [Documentation](https://docs.netapp.com/us-en/occm/task_getting_started_gcp.html)
 - [How to deploy](https://cloud.netapp.com/blog/gcp-cvo-blg-how-to-set-up-cloud-volumes-ontap-for-google-cloud)
-- [Cost calculator](https://cloud.netapp.com/cloud-volumes-service-for-gcp/cost-estimator)
+- [Cost calculator](https://cloud.netapp.com/google-cloud-calculator)
 - [Performance](https://www.netapp.com/us/media/tr-4816.pdf)
 
 ### Google Cloud VMware Engine
