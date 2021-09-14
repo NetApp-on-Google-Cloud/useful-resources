@@ -6,7 +6,7 @@
 - [Marketplace](https://console.cloud.google.com/marketplace/product/endpoints/cloudvolumesgcp-api.netapp.com)
 - [Documentation](https://cloud.google.com/architecture/partners/netapp-cloud-volumes)
 - [How to deploy](https://www.youtube.com/watch?v=uIB4iMZW6SI)
-- [Costs calculator](https://cloud.netapp.com/google-cloud-calculator)
+- [Costs calculator](https://cloud.netapp.com/cloud-volumes-service-for-gcp/cost-estimator)
 - [Performance](https://cloud.netapp.com/blog/introduction-to-cloud-volumes-service-for-gcp)
 
 ### Google Cloud VMware Engine:
