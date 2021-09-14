@@ -50,6 +50,12 @@
 - [Rest API](https://docs.netapp.com/us-en/cloud-manager-automation/cm/concepts.html)
 - [Trident](https://netapp-trident.readthedocs.io/en/stable-v21.07/dag/kubernetes/netapp_products_integrations.html#cloud-volumes-ontap)
 
+### Learning
+
+- [Qwiklabs Getting Started](https://www.qwiklabs.com/focuses/15730?parent=catalog)
+- [Qwiklabs Protecting Data](https://google.qwiklabs.com/focuses/18169?parent=catalog)
+- [Qwiklabs Managing SMB (Microsoft) Workloads](https://google.qwiklabs.com/focuses/18391?parent=catalog)
+
 
 ## Cloud Backup
 - [Marketplace](https://console.cloud.google.com/marketplace/product/netapp-cloudmanager/cloud-manager)
