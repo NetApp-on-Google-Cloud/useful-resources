@@ -8,17 +8,17 @@
 5. [Cloud Data Sense](#cds)
 ___
 
-## Cloud Backup Service <a name="CVS"></a>
+## Cloud Backup Service <a name="cbs"></a>
 - [Marketplace](https://console.cloud.google.com/marketplace/product/netapp-cloudmanager/cloud-manager)
 - [Documentation](https://docs.netapp.com/us-en/occm/concept_backup_to_cloud.html)
 - [Cost calculator](https://cloud.netapp.com/cloud-backup-service-tco-calculator)
 ___
-## Cloud Tiering <a name="CT"></a>
+## Cloud Tiering <a name="ct"></a>
 - [Marketplace](https://console.cloud.google.com/marketplace/product/netapp-cloudmanager/cloud-manager)
 - [Documentation](https://docs.netapp.com/us-en/occm/concept_cloud_tiering.html)
 - [Cost calculator](https://cloud.netapp.com/cloud-tiering-service-tco)
 ___
-## Cloud Volumes ONTAP <a name="CVO"></a>
+## Cloud Volumes ONTAP <a name="cvo"></a>
 
 ### General
 - [Marketplace](https://console.cloud.google.com/marketplace/product/netapp-cloudmanager/cloud-manager)
