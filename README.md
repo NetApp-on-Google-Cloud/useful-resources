@@ -4,8 +4,7 @@
 1. [Cloud Backup Service](#cbs)
 2. [Cloud Tiering](#ct)
 3. [Cloud Volumes ONTAP](#cvo)
-4. [Cloud Volumes Service](#cvs)
-5. [Cloud Data Sense](#cds)
+
 ___
 
 ## Cloud Backup Service <a name="cbs"></a>
@@ -45,40 +44,3 @@ ___
 - [Qwiklabs Getting Started](https://www.qwiklabs.com/focuses/15730?parent=catalog)
 - [Qwiklabs Protecting Data](https://google.qwiklabs.com/focuses/18169?parent=catalog)
 - [Qwiklabs Managing SMB (Microsoft) Workloads](https://google.qwiklabs.com/focuses/18391?parent=catalog)
-
-___
-
-## Cloud Volumes Services <a name="cvs"></a>
-
-### General
-- [Marketplace](https://console.cloud.google.com/marketplace/product/endpoints/cloudvolumesgcp-api.netapp.com)
-- [Documentation](https://cloud.google.com/architecture/partners/netapp-cloud-volumes)
-- [How to deploy](https://www.youtube.com/watch?v=uIB4iMZW6SI)
-- [Costs calculator](https://cloud.netapp.com/cloud-volumes-service-for-gcp/cost-estimator)
-- [Performance](https://cloud.netapp.com/blog/introduction-to-cloud-volumes-service-for-gcp)
-
-### Google Cloud VMware Engine:
-- [Connect GCVE VMs to CVS](https://cloud.google.com/vmware-engine/docs/vmware-ecosystem/howto-cloud-volumes-service)
-- [Backup repository for GCVE](https://cloud.google.com/vmware-engine/docs/concepts-backup-vms#determining_where_to_store_backup_data)
-
-### Windows File Server on GCP
-- [Top reasons](https://www.netapp.com/pdf.html?item=/media/26050-NA-532-0321-5-Reasons-Windows-Google-Cloud.pdf)
-- [Global File Cache](https://f.hubspotusercontent20.net/hubfs/525875/NA-428-0121-Glocal-File-Cache-Ref-Architecture%20(1).pdf)
-
-### SAP on GCP
-- [Top reasons](https://www.netapp.com/pdf.html?item=/media/24540-NA-501-0121-SAP-Solutions-Google-Cloud.pdf)
-- [SAP Hana files shares](https://cloud.google.com/solutions/sap/docs/filers-for-sap#filers-for-sap-supported)
-
-### DevOps
-
-- [Terraform](https://registry.terraform.io/providers/NetApp/netapp-gcp/latest/docs)
-- [Rest API](https://cloud.google.com/architecture/partners/netapp-cloud-volumes/api)
-- [Trident](https://netapp-trident.readthedocs.io/en/stable-v21.07/dag/kubernetes/netapp_products_integrations.html#cloud-volumes-service-for-gcp)
-- [Astra](https://netapp.hubs.vidyard.com/watch/rwHv7hJuap6SfRxoUvehVn?)
-
-___
-
-## Cloud Data Sense <a name="cds"></a>
-- [Marketplace](https://console.cloud.google.com/marketplace/product/netapp-cloudmanager/cloud-manager)
-- [Documentation](https://docs.netapp.com/us-en/occm/concept_cloud_compliance.html)
-
