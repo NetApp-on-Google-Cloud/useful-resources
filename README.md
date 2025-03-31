@@ -59,6 +59,7 @@ ___
 - [Google Cloud NetApp Volumes - Import resources transitioned from Cloud Volumes Service](https://community.netapp.com/t5/Tech-ONTAP-Blogs/Google-Cloud-NetApp-Volumes-Import-resources-transitioned-from-Cloud-Volumes/ba-p/450825)
 - [Using VPNs to provide Active Directory access to Google Cloud NetApp Volumes](https://community.netapp.com/t5/Tech-ONTAP-Blogs/Using-VPNs-to-provide-Active-Directory-access-to-Google-Cloud-NetApp-Volumes/ba-p/452731)
 - [Introducing Astra Trident with Google Cloud NetApp Volumes](https://community.netapp.com/t5/Tech-ONTAP-Blogs/Introducing-Astra-Trident-with-Google-Cloud-NetApp-Volumes/ba-p/453484)
+- [Seamless Kubernetes storage with Google Cloud NetApp Volumes Flex and Astra Trident](https://community.netapp.com/t5/Tech-ONTAP-Blogs/Seamless-Kubernetes-storage-with-Google-Cloud-NetApp-Volumes-Flex-and-Astra/ba-p/453408)
 - [Simplifying cloud operations: Using Google Cloud to easily run NetApp Volumes with VMware Engine](https://community.netapp.com/t5/Tech-ONTAP-Blogs/Simplifying-cloud-operations-Using-Google-Cloud-to-easily-run-NetApp-Volumes/ba-p/453840)
 - [Google Cloud NetApp Volumes: Support for built-in default local group management](https://community.netapp.com/t5/Tech-ONTAP-Blogs/Google-Cloud-NetApp-Volumes-Support-for-built-in-default-local-group-management/ba-p/453939)
 - [Google Cloud NetApp Volumes: Volume replication and Terraform](https://community.netapp.com/t5/Tech-ONTAP-Blogs/Google-Cloud-NetApp-Volumes-Volume-replication-and-Terraform/ba-p/454214)
