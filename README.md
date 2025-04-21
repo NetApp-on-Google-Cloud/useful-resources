@@ -78,3 +78,7 @@ ___
 ### Qwiklabs
 
 - [Getting Started with Google Cloud NetApp Volumes](https://www.cloudskillsboost.google/focuses/99653?parent=catalog)
+- [Dynamic volume provisioning on GKE with Google Cloud NetApp Volumes](https://www.cloudskillsboost.google/focuses/124343?parent=catalog)
+- [Resizing a Google Cloud NetApp Volumes volume](https://www.cloudskillsboost.google/focuses/124382?parent=catalog)
+- [Protect your Google Cloud NetApp Volumes data with snapshots](https://www.cloudskillsboost.google/focuses/124381?parent=catalog)
+- [Protect your Google Cloud NetApp Volumes data with backup](https://www.cloudskillsboost.google/focuses/124383?parent=catalog)
