@@ -10,21 +10,21 @@ ___
 ## Cloud Backup Service <a name="cbs"></a>
 - [Marketplace](https://console.cloud.google.com/marketplace/product/netapp-cloudmanager/cloud-manager)
 - [Documentation](https://docs.netapp.com/us-en/occm/concept_backup_to_cloud.html)
-- [Cost calculator](https://cloud.netapp.com/cloud-backup-service-tco-calculator)
+- [Cost calculator](https://bluexp.netapp.com/cloud-backup-service-tco-calculator)
 ___
 ## Cloud Tiering <a name="ct"></a>
 - [Marketplace](https://console.cloud.google.com/marketplace/product/netapp-cloudmanager/cloud-manager)
 - [Documentation](https://docs.netapp.com/us-en/occm/concept_cloud_tiering.html)
-- [Cost calculator](https://cloud.netapp.com/cloud-tiering-service-tco)
+- [Cost calculator](https://bluexp.netapp.com/cloud-tiering-service-tco)
 ___
 ## Cloud Volumes ONTAP <a name="cvo"></a>
 
 ### General
 - [Marketplace](https://console.cloud.google.com/marketplace/product/netapp-cloudmanager/cloud-manager)
 - [Documentation](https://docs.netapp.com/us-en/occm/task_getting_started_gcp.html)
-- [How to deploy](https://cloud.netapp.com/blog/gcp-cvo-blg-how-to-set-up-cloud-volumes-ontap-for-google-cloud)
-- [Cost calculator](https://cloud.netapp.com/google-cloud-calculator)
-- [Sizing tool](https://cloud.netapp.com/gcp-cvo-sizer)
+- [How to deploy](https://bluexp.netapp.com/blog/gcp-cvo-blg-how-to-set-up-cloud-volumes-ontap-for-google-cloud)
+- [Cost calculator](https://bluexp.netapp.com/google-cloud-calculator)
+- [Sizing tool](https://bluexp.netapp.com/gcp-cvo-sizer)
 - [Performance](https://www.netapp.com/us/media/tr-4816.pdf)
 
 ### Google Cloud VMware Engine
