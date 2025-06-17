@@ -75,6 +75,7 @@ ___
 - [Google Cloud NetApp Volumes: Use Cloud Monitoring alerts to avoid out-of-space issues](https://community.netapp.com/t5/Tech-ONTAP-Blogs/Google-Cloud-NetApp-Volumes-Use-Cloud-Monitoring-alerts-to-avoid-out-of-space/ba-p/459603)
 - [Unlocking secure and efficient AI with DataNeuron and Google Cloud NetApp Volumes](https://community.netapp.com/t5/Tech-ONTAP-Blogs/Unlocking-secure-and-efficient-AI-with-DataNeuron-and-Google-Cloud-NetApp/ba-p/459579)
 - [SnapMirror between ONTAP and Google Cloud NetApp Volumes](https://community.netapp.com/t5/Tech-ONTAP-Blogs/SnapMirror-between-ONTAP-and-Google-Cloud-NetApp-Volumes/ba-p/461292)
+- [Auto-tiering for NetApp Volume Flex storage pool](https://community.netapp.com/t5/Tech-ONTAP-Blogs/Auto-tiering-for-NetApp-Volume-Flex-storage-pools/ba-p/461623)
 
 ### Qwiklabs
 
